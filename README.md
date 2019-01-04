@@ -8,9 +8,9 @@ With regard to the material:
 
  - [Raspberry Pi 3 Model B+](https://www.raspberrypi.org/products/raspberry-pi-3-model-b-plus/)
  - Analog sensors
-  - DHT11
-  - DS18B20
-  - BMP180
+  * DHT11
+  * DS18B20
+  * BMP180
  - [Dell Edge Gateways for IoT 5100](https://www.dell.com/en-us/work/shop/cty/pdp/spd/dell-edge-gateway-5100/xctoi5100us)
 
 
